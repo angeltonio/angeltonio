@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angel Antonio
 - 👀 I’m interested in Dart,Flutter, React, Angular, Vue, Nestjs, IoT and AR
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on many projects with this technologies 
 - 📫 How to reach me.... send a message 
 
