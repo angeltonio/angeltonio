@@ -6,4 +6,4 @@
 
  ![Angel Stats](https://github-readme-stats.vercel.app/api?username=angeltonio&theme=transparent&show_icons=true)\
  \
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeltonio&layout=donut&hide=html,css,scss&theme=transparent&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeltonio&layout=donut&hide=html,css,scss&theme=transparent&show_icons=true)](https://github-readme-stats.vercel.app/api/top-langs?username=angeltonio&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true)https://github-readme-stats.vercel.app/api/top-langs?username=angeltonio&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true)
